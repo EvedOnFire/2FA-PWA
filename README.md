@@ -1,3 +1,3 @@
-# 2FA-PWA
+# TOTP Offline
 
-A PWA for managing one-time passwords locally on a device through a progressive web app.
+A progressive web app (PWA) for managing time based one-time passwords (TOTP) locally on a device through the browser.
