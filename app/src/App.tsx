@@ -41,7 +41,7 @@ function App() {
         <>
             <header className="flex items-center px-6 py-4 bg-blue-600 relative">
                 <Link to="/" className="text-2xl md:text-4xl text-gray-200 font-serif font-semibold mr-12">
-                    OTP Offline
+                    TOTP Offline
                 </Link>
 
                 <nav className="hidden md:flex items-center text-white gap-x-6">
